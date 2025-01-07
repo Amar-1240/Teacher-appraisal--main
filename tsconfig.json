@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "ES2020",
+    "types": ["vite-plugin-pwa", "node"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "jsx": "react-jsx"
+  }
+}
